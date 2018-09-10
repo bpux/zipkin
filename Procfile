@@ -1,1 +1,1 @@
-zipkin: java -jar zipkin-server/target/zipkin-server-*exec.jar
+web: java -jar zipkin-server/target/zipkin-server-*exec.jar $PORT
