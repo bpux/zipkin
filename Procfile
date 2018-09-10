@@ -1,1 +1,1 @@
-zipkin: java -jar target/zipkin-server-*exec.jar
+zipkin: java -jar zipkin-server/target/zipkin-server-*exec.jar
